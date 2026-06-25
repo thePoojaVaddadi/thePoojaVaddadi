@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaddadi Veera Venkata Lakshmi Pooja</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate cloud & devops engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thepoojavaddadi&label=Profile%20views&color=0e75b6&style=flat" alt="thepoojavaddadi" /> </p>
 
-- 🌱 I'm currently learning **React JS**
+- 🌱 I'm currently learning **Azure~!!**
 
 - 📫 How to reach me **newtonnindian95@gmail.com**
 
